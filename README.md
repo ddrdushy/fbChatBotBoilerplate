@@ -15,5 +15,35 @@ Follow the [walk-through](https://developers.facebook.com/docs/messenger-platfor
 
 ### Step 1:
 
-- go to [Glitch.com]("https://glitch.com/")
-- ![step1](/pics/step1.png)
+go to [Glitch.com]("https://glitch.com/")
+![step1](/pics/step1.png)
+
+### Step 2:
+
+Login with facebook or github.
+![step2](/pics/step2.png)
+
+### Step 3:
+
+Create new express project
+![step3](/pics/step3.png)
+
+### Step 4:
+
+Go to **Advance options**
+![step4](/pics/step4.png)
+
+### Step 5:
+
+Select **import from github**  
+![step5](/pics/step5.png)
+
+### Step 6:
+
+Enter the github repo as [**ddrdushy/fbChatBotBoilerplate**]("https://github.com/ddrdushy/fbChatBotBoilerplate")
+![step6](/pics/step6.png)
+
+### Step 7:
+
+Need to change the values in **config/default.json** values  
+![step7](/pics/step7.png)
