@@ -16,4 +16,4 @@ Follow the [walk-through](https://developers.facebook.com/docs/messenger-platfor
 ### Step 1:
 
 - go to [Glitch.com]("https://glitch.com/")
-- ![step1]("https://github.com/ddrdushy/fbChatBotBoilerplate/blob/master/pics/step1.png")
+- ![step1](/pics/step1.png)
