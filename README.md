@@ -70,3 +70,49 @@ Create new app in [Facebook developer page](https://developers.facebook.com)
 Create new app ID
 
 ![step9](/pics/step9.png)
+
+### Step 10:
+
+Select messenger in dashboard.
+
+![step10](/pics/step10.png)
+
+![step10](/pics/step10_1.png)
+
+### Step 11:
+
+Select the page which you need to intergrate this bot.
+
+![step11](/pics/step11.png)
+
+![step11_1](/pics/step11_1.png)
+
+Face book will generate an access token for the particular page. copy that token and replace it in **config file**.
+
+![step11_2](/pics/step11_2.png)
+
+### Step 12:
+
+Go to setting section in dashboard. get the **App Secret** and place it in the **config file.**
+
+![step12](/pics/step12.png)
+
+![step12_1](/pics/step12_1.png)
+
+make sure that bot is in **live Status.**
+
+![step12_2](/pics/step12_2.png)
+
+### Step 13:
+
+Copy the **Glitch** project URL. go to **messenger settings** under products menu and click on **Setup Webhooks**.
+
+![step13](/pics/step13.png)
+
+![step13_1](/pics/step13_1.png)
+
+Paste the **callback URL** as **Glitch project URL** and add **webhook** at the end of the URL as shown in the below picture. and tick on *messages* and *messaging_postbacks*.
+
+![step13_2](/pics/step13_2.png)
+
+![step13_3](/pics/step13_3.png)
