@@ -116,3 +116,15 @@ Paste the **callback URL** as **Glitch project URL** and add **webhook** at the 
 ![step13_2](/pics/step13_2.png)
 
 ![step13_3](/pics/step13_3.png)
+
+### Step 14:
+
+Go to Facebook Messenger and search for the page name and start using the Chatbot.
+
+![step14](/pics/step14.png)
+
+Successfully deployed the chatbot.
+
+![step14_1](/pics/step14_1.png)
+
+![step14_2](/pics/step14_2.png)
